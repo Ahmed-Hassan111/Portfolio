@@ -267,6 +267,7 @@ img {
 
 .skills__subtitle {
   margin-bottom: var(--mb-2);
+  margin-top: -50px;
   margin-left: -150px;
 }
 .skills__text {
